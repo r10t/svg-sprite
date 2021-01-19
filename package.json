@@ -64,7 +64,7 @@
 		"vinyl-fs": "^2.4.3",
 		"svg2png": "jkphl/svg2png",
 		"image-diff": "^1.6.3",
-		"node-sass": "^3.8.0",
+		"node-sass": ">=4.13.1"
 		"less": "^2.7.1",
 		"stylus": "^0.54.5",
 		"jshint": "^2.9.3",
